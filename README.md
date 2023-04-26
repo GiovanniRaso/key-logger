@@ -9,9 +9,6 @@ The following dependencies are required to build and run this project:
   
 ## Installaton
 Will have to install pynput from pip in your terminal.
- '''bash
- pip install pynput
- '''
  
 ## How to run the project
   1. Install pynput library using pip
