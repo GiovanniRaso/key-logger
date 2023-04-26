@@ -4,8 +4,8 @@ I did this project to help get a deeper understanding of cybersecurity and the c
 
 ## Dependencies
 The following dependencies are required to build and run this project:
-  -Python 3.11.3
-  -Pip 23.1.1
+  Python 3.11.3
+  Pip 23.1.1
   
 ## Installaton
 Will have to install pynput from pip in your terminal.
