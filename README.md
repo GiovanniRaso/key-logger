@@ -15,7 +15,6 @@ Will need to have python downloaded and also install pynput from pip in your ter
  
 ## How to run the project
   1. Install pynput library using pip
-
   2. Clone the repository and navigate to the project directory
-
-  3. Run the program
+  3. Make a text file with the name used in the program or name it something different. If named different you will have to change the name of the text file in the program.
+  4. Run the program
